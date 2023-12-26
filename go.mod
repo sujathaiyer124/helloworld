@@ -1,4 +1,4 @@
-module helloworld
+module github.com/sujathaiyer124/helloworld.git
 
 go 1.21.1
 
